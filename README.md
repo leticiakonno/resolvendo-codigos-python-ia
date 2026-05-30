@@ -1,2 +1,3 @@
-# resolvendo-codigos-python-ia
-Resoluções de códigos em python utilizando IA.
+# Resolvendo códigos de python
+
+Resoluções de códigos em python utilizando IA como objetivo de estudos.
