@@ -1,4 +1,4 @@
-# Resolvendo códigos de python
+<h1 align="center">Resolvendo códigos de python</h1>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px"/>
